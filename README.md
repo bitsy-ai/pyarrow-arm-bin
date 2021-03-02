@@ -1,5 +1,10 @@
 # pyarrow-arm-whl
 
+| Raspberry Pi | Python | Arch    | URL                                                                                                                                     | Checksum                         |
+|--------------|--------|---------|-----------------------------------------------------------------------------------------------------------------------------------------|----------------------------------|
+| Pi 4         | 3.7    | arm7l   | [3.0.0](https://github.com/bitsy-ai/pyarrow-arm-bin/releases/download/apache-arrow-3.0.0/pyarrow-3.0.0-cp37-cp37m-linux_armv7l.whl) (community) | a25ee333a005576f81c4b10c9ae42a79  |
+| Pi 4         | 3.7    | aarch64 | todo | todo |
+
 ## System dependencies
 
 ### Native Raspberry Pi OS / Raspbian
